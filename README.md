@@ -1,2 +1,2 @@
 # CBT-CIP
-CipherByte Technologies Internship Project
+CipherByte Technologies Data Science Internship Project
